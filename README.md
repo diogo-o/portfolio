@@ -48,6 +48,23 @@ The original note gradually expanded into a connected body of work spanning meth
 
 ---
 
+## Systems & AI
+
+The methods turned inward: systems that build, verify, and govern other systems. Each
+makes complex decisions visible — as contracts, evidence, and governance — so what a
+machine does can be inspected, trusted, and corrected.
+
+The full note-to-now story is in the **[synthesis](synthesis.md)**.
+
+| Project | What it is | Read |
+|---|---|---|
+| **DMO** | AI-assisted manufacturing-execution app, self-initiated and self-funded, **used by my section at BA Glass**. I designed the system and directed AI to implement it. | [live repo](https://github.com/dmo-app/dmo-beta) |
+| **Creaigen** | A persistent collaborative AI thinking room: durable multi-identity discussions with bounded, consolidated memory. TypeScript monorepo (Fastify, React, PostgreSQL, MCP, OIDC, tests, CI). | [case study](case-studies/creaigen.md) |
+| **AICore-C** | A native C++/JUCE DAW with an AI music technician; an audio→project-template pipeline with separable Python ML services. | [case study](case-studies/aicore-c.md) |
+| **CORE / KUT** | A multi-agent governance network (independent verification, negative controls, drift control) + a knowledge→contract→verified-build methodology. | [case study](case-studies/core-kut.md) · [live repo](https://github.com/d-aicore/support) |
+
+---
+
 ## Where To Go From Here
 
 Each repository documents a different part of the same body of work.
